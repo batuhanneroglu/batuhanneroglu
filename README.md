@@ -5,7 +5,7 @@
 
 - 🤝 I’m looking for help with **NextJS**
 
-- 👨‍💻 All of my projects are available at [my pinned repositories](my pinned repositories)
+- 👨‍💻 All of my projects are available at my pinned repositories
 
 - 💬 Ask me about **HTML, CSS, JS**
 
