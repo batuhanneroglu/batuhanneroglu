@@ -1,24 +1,24 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="center">Hey 👋 What's up?</h1>
 
 ###
 
-<p align="left">My name is Batuhan and I'm a full stack (trying to be) developer from Türkiye.</p>
+<p align="center">My name is Batuhan and I'm a full stack (trying to be) developer from Türkiye.</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="center">About me</h2>
 
 ###
 
-<p align="left">dwdw</p>
+<p align="center">dwdw</p>
 
 ###
 
-<h2 align="left">I code with:</h2>
+<h2 align="center">I code with:</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
