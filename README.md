@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Batuhan</h1>
 <h3 align="center">A fullstack(trying to be) developer from Türkiye</h3>
 
-- 🚀 My biography site: [batuhaneroglu.vercel.app](batuhaneroglu.vercel.app/).
+- 🚀 My biography site: [batuhaneroglu.vercel.app](https://batuhaneroglu.vercel.app/).
 
 - 🌱 I’m currently learning **NextJS**
 
