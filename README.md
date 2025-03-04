@@ -7,11 +7,11 @@
 
 - 🤝 I’m looking for help with **NextJS**
 
-- 👨‍💻 All of my projects are available at [my pinned repositories](my pinned repositories)
+- 👨‍💻 All of my projects are available at my pinned repositories
 
 - 💬 Ask me about **HTML, CSS, JS**
 
-- 📫 How to reach me **batuhaneroglu145@gmail.com**
+- 📫 How to reach me: **batuhaneroglu145@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
