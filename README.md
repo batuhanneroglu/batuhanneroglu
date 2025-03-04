@@ -3,13 +3,9 @@
 
 - 🚀 My biography website: [batuhaneroglu.vercel.app](https://batuhaneroglu.vercel.app)
 
-- 🌱 I’m currently learning **NextJS**
-
-- 🤝 I’m looking for help with **NextJS**
+- 🌱 I’m currently using **NextJS**
 
 - 👨‍💻 All of my projects are available at my pinned repositories
-
-- 💬 Ask me about **HTML, CSS, JS**
 
 - 📫 How to reach me: **batuhaneroglu145@gmail.com**
 
