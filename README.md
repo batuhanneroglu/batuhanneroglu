@@ -20,7 +20,7 @@
  * I'm improving myself in next.js.
  
 ## Other Stuff
-  - [My Youtube Channel](https://www.youtube.com/channel/UCA_8wb6R2bav-Kv8RraLHtw), i'm gonna post content to here about coding soon :) 
+  - [My Youtube Channel](https://www.youtube.com/@hydra.officiaI), i'm gonna post content to here about coding soon :) 
   - Feel free to send e-mail to me.
 
 ![Batuhans's github stats](https://github-readme-stats.vercel.app/api?username=hhydraaa&show_icons=true&hide=[%22issues%22])
