@@ -3,7 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/batuhaneroglu145@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:batuhaneroglu145@gmail.com)](mailto:batuhaneroglu145@gmail.com) [![Youtube Channel](https://img.shields.io/badge/-Batuhan-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/@hydra.officiaI)](https://www.youtube.com/@hydra.officiaI)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hhydraaa" alt="hydra" /> </p>
 
-<div style="text-align: right">Welcome to the profile of a 14 y.o dev that learns Next.js</div> <img src="https://github.com/user-attachments/assets/cdf394b0-5aaa-4691-9196-5034c7c3ff43" width="100" height="100" align='center'/>
+<div style="text-align: right">Welcome to the profile of a 14 y.o dev that learns Next.js</div> <img src="https://github.com/user-attachments/assets/cdf394b0-5aaa-4691-9196-5034c7c3ff43" width="100" height="100" align='right'/>
 
 ## :computer: Technologies I Love
 * Frontend Development
