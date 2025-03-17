@@ -35,3 +35,5 @@
 <a href="https://instagram.com/batuhan13485" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="batuhan13485" height="30" width="40" /></a>
 <a href="https://discord.gg/Yef4pGcr29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Yef4pGcr29" height="30" width="40" /></a>
 </p>
+
+<p>Kağan Mert İzmir'in readme dosyasından örnek aldım</p>
