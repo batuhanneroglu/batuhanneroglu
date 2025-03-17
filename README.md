@@ -3,6 +3,8 @@
 [![Gmail Badge](https://img.shields.io/badge/batuhaneroglu145@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:batuhaneroglu145@gmail.com)](mailto:batuhaneroglu145@gmail.com) [![Youtube Channel](https://img.shields.io/badge/-Batuhan-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/@hydra.officiaI)](https://www.youtube.com/@hydra.officiaI)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nexusdevv" alt="nexus" /> </p>
 
+- My biography website: [batuhaneroglu.vercel.app](https://batuhaneroglu.vercel.app)
+
 <div style="text-align: right">Welcome to the profile of a 14 y.o dev that learns Next.js</div>
 
 ## :computer: Technologies I Love
@@ -24,8 +26,6 @@
   - Feel free to send e-mail to me.
 
 ![Batuhans's github stats](https://github-readme-stats.vercel.app/api?username=nexusdevv&show_icons=true&hide=[%22issues%22])
-
-- My biography website: [batuhaneroglu.vercel.app](https://batuhaneroglu.vercel.app)
 
 - All of my projects are available at my pinned repositories
 
