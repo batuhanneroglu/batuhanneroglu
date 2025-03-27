@@ -5,7 +5,7 @@
 
 <div style="text-align: right">Welcome to the profile of a 14 y.o dev that learns Next.js</div>
 
-Check out my [portfolio](batuhaneroglu.vercel.app).
+Check out my [portfolio](https://batuhaneroglu.vercel.app).
 
 ## :computer: Technologies I Love
 * Frontend Development
