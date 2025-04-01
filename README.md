@@ -12,7 +12,7 @@ Check out my [portfolio](https://batuhaneroglu.vercel.app).
 * Photoshop
 * Backend Development (not too much lol)
 
-[![SkillIcons](https://skillicons.dev/icons?i=js,ts,html,css,py,tailwind,react,next)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=js,ts,html,css,py,tailwind,react,next,vercel,discord,unreal,supabase,aftereffects,photoshop,premiere,blender)](https://skillicons.dev)<br/>
 
 <details>
   <summary>Github Stats ⚡</summary>
