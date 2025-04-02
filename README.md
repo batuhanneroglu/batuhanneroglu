@@ -1,6 +1,6 @@
 ## Hi, [I'm Batuhan!](https://www.youtube.com/@hydra.officiall)  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px"> 
 
-[![Gmail Badge](https://img.shields.io/badge/batuhaneroglu145@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:batuhaneroglu145@gmail.com)](mailto:batuhaneroglu145@gmail.com) [![Youtube Channel](https://img.shields.io/badge/-Batuhan-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/@hydra.officiall)](https://www.youtube.com/@hydra.officiaI)
+[![Gmail Badge](https://img.shields.io/badge/batuhaneroglu145@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:batuhaneroglu145@gmail.com)](mailto:batuhaneroglu145@gmail.com) [![Youtube Channel](https://img.shields.io/badge/-Batuhan-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/@hydra.officiall)](https://www.youtube.com/@hydra.officiall)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nexusdevv" alt="nexus" /> </p>
 
 <div style="text-align: right">Welcome to the profile of a 14 y.o dev that uses Next.js</div>
