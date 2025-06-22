@@ -17,8 +17,8 @@ Check out my [portfolio](https://batuhaneroglu.vercel.app).
 <details>
   <summary>Github Stats ⚡</summary>
   
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=nexusdevv&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nexusdevv&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=batuhanneroglu&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=batuhanneroglu&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
 </details>
 
 ## Current Works
@@ -35,5 +35,4 @@ Check out my [portfolio](https://batuhaneroglu.vercel.app).
 <p align="left">
 <a href="https://dev.to/hhydraaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="hhydraaa" height="30" width="40" /></a>
 <a href="https://instagram.com/bbatuu.u" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="batuhan13485" height="30" width="40" /></a>
-<a href="https://discord.gg/Yef4pGcr29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Yef4pGcr29" height="30" width="40" /></a>
 </p>
