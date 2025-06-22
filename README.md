@@ -12,7 +12,7 @@ Check out my [portfolio](https://batuhaneroglu.vercel.app).
 * Photoshop
 * Backend Development (not too much lol)
 
-[![SkillIcons](https://skillicons.dev/icons?i=js,ts,html,css,py,tailwind,react,next,vercel,discord,unreal,supabase,aftereffects,photoshop,blender)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=js,ts,html,css,py,tailwind,react,next,vercel,unreal,supabase,aftereffects,photoshop,blender)](https://skillicons.dev)<br/>
 
 <details>
   <summary>Github Stats ⚡</summary>
@@ -24,6 +24,7 @@ Check out my [portfolio](https://batuhaneroglu.vercel.app).
 ## Current Works
  * I am a freelancer rn.
  * I'm improving myself in next.js.
+ * I'm video editing with After Effects
  
 ## Other Stuff
   - [My Youtube Channel](https://www.youtube.com/channel/UC7To08iMZzSMMRcjeIZdnew)), i'm gonna post content to here about coding soon :) 
