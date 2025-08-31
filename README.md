@@ -1,6 +1,6 @@
 ## Hi, I'm Batuhan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px"> 
 
-<img src="https://github.com/batuhanneroglu/batuhanneroglu/blob/c106162586b41b739c81df5fd596e3ebadce11b8/batuhan.png" width="200" height="200">
+<img src="https://github.com/batuhanneroglu/batuhanneroglu/blob/c106162586b41b739c81df5fd596e3ebadce11b8/batuhan.png" width="600" height="300">
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=vl2ehgr1ncnfxh92sp8074p1h&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
