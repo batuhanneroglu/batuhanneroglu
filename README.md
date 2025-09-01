@@ -29,7 +29,7 @@ Check out my [portfolio](https://batuhaneroglu.vercel.app).
  * I'm video editing with After Effects
  
 ## Other Stuff
-  - [My Youtube Channel](https://www.youtube.com/channel/UC7To08iMZzSMMRcjeIZdnew)), i'm gonna post content to here about coding soon :) 
+  - [My Youtube Channel](https://www.youtube.com/@batuhanneroglu)), i'm gonna post content to here about coding soon :) 
   - Feel free to send e-mail to me.
 
 - All of my projects are available at my pinned repositories
