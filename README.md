@@ -3,7 +3,7 @@
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=vl2ehgr1ncnfxh92sp8074p1h&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 [![Gmail Badge](https://img.shields.io/badge/batuhaneroglu145@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:batuhaneroglu145@gmail.com)](mailto:batuhaneroglu145@gmail.com) [![Youtube Channel](https://img.shields.io/badge/-Batuhan-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/@hydra.officiall)](https://www.youtube.com/@batuhanneroglu)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=batuhanneroglu" alt="nexus" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nexusdevv" alt="nexus" /> </p>
 
 <div style="text-align: right">Welcome to the profile of a 14 y.o dev</div>
 
