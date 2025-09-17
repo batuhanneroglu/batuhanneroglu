@@ -33,9 +33,3 @@ Check out my [portfolio](https://batuhaneroglu.vercel.app).
   - Feel free to send e-mail to me.
 
 - All of my projects are available at my pinned repositories
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/nexsu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="hhydraaa" height="30" width="40" /></a>
-<a href="https://instagram.com/thekaptncook" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="batuhan13485" height="30" width="40" /></a>
-</p>
