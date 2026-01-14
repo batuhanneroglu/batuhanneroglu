@@ -12,7 +12,7 @@ I craft digital experiences that blend aesthetics with functionality. My approac
 
 - 📫 How to reach me **batuhaneroglu145@gmail.com**
 
-- 👨‍💻 All of my projects are available at **[https://batuhan.tech](https://batuhan.tech/work)**
+- 👨‍💻 All of my projects are available at **[batuhan.tech/work](https://batuhan.tech/work)**
 
-- 📝 I regularly write articles on **[https://batuhan.tech/blog](https://batuhan.tech/blog)**
+- 📝 I regularly write articles on **[batuhan.tech/blog](https://batuhan.tech/blog)**
 ## To see more info visit my [website](https://batuhan.tech)
